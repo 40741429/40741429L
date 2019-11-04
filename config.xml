@@ -11,4 +11,9 @@
   <content src="index.html" />
   <platform name="android">
     <icon src="res/res01.jfif" />
+    <icon src="res/android/map.png" density="ldpi" />
+    <icon src="res/android/map.png" density="mdpi" />
+    <icon src="res/android/map.png" density="hdpi" />
+    <icon src="res/android/map.png" density="xhdpi" />
+  </platform>
 </widget>
