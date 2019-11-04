@@ -11,4 +11,5 @@
   <content src="index.html" />
   <platform name="android">
     <icon src="res/love01" />
+    </platform>
 </widget>
