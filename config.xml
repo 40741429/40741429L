@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget id="tw.edu.nfu.eZTravel" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<!-- versionCode is optional and Android only -->
+  <name>妤妹購物商城</name>
+  <description>
+      An example for phonegap build APP from yflan@nfu.edu.tw.
+  </description>
+  <author href="https://www.nfu.edu.tw/zh/" email="40741429@gm.nfu.edu.tw">
+      林芊妤
+  </author>
+  <content src="index.html" />
+  <platform name="android">
+    <icon src="res/res01.jfif" />
+</widget>
